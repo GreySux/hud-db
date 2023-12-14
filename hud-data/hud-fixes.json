@@ -1,22 +1,22 @@
 {
-  "name": "m0re techno",
-  "author": "techno",
+  "name": "Community HUD Fixes",
+  "author": "CriticalFlaw",
+  "verified": true,
   "social": {
-    "steam_profile": "76561198172101254",
-    "album": "https://imgur.com/a/09sf6VU"
+    "steam_profile": "76561198041892999",
+    "twitter": "CriticalFlaw_",
+    "discord": "hTdtK9vBhE"
   },
   "flags": [
-    "fonts",
-    "menus",
-    "scoreboards",
+    "customization",
     "crosshairs",
     "minmode",
-    "materials",
-    "customization"
+    "materials"
   ],
   "traits": {
     "os": [
       "windows",
+      "mac",
       "linux"
     ],
     "gamemode": [
@@ -40,22 +40,13 @@
     ],
     "res": [
       "4/3",
-      "5/4",
       "16/9",
       "16/10"
-    ],
-    "position": [
-      "center"
-    ],
-    "lang": [
-      "en"
     ]
   },
-  "repo": "https://github.com/TechnoSL/m0re_techno",
-  "hash": "e368678826c983758f7ff15dad6aeb5074bc2134",
-  "parent": "m0rehud",
+  "repo": "https://github.com/CriticalFlaw/TF2HUD.Fixes",
+  "hash": "eabd28aa5d2436b45eb78f0bf61b33a96c018db3",
   "resources": [
-    "m0re-techno-banner",
-    "m0re-techno-gameplay"
+    "banner"
   ]
 }
